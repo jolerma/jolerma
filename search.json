@@ -4,21 +4,21 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "A few highlights of what I’ve worked on:\n\n\nA modular Bayesian MMM engine using PyMC, supporting hierarchical priors and full flexibility.\n\nCode: GitHub Repo\nSummary: Built to optimize media spend for a subscription business.\n\n\n\n\nAn interactive Dash app to explore player stats across European leagues.\n\nLive Demo: Link to App\nFeatures: Custom filters, player notes, integrated scouting DB\n\n\n\n\nLed A/B and quasi-experimentation work using synthetic controls and Bayesian structural models.\n\nMore coming soon."
+    "text": "A few highlights of what I’ve worked on:\n\n\nA modular Bayesian MMM engine using…\n\nCode: GitHub Repo\nSummary: Built to optimize media spend for a subscription business.\n\n\n\n\nAn interactive Dash app to explore player stats across European leagues.\n\nLive Demo: Link to App\nFeatures: Custom filters, player stats, …\n\n\n\n\nLed A/B and quasi-experimentation work using synthetic controls and Bayesian structural models.\n\nMore coming soon."
   },
   {
-    "objectID": "projects.html#marketing-mix-modeling-mmm-in-pymc",
-    "href": "projects.html#marketing-mix-modeling-mmm-in-pymc",
+    "objectID": "projects.html#marketing-mix-modeling-mmm",
+    "href": "projects.html#marketing-mix-modeling-mmm",
     "title": "Projects",
     "section": "",
-    "text": "A modular Bayesian MMM engine using PyMC, supporting hierarchical priors and full flexibility.\n\nCode: GitHub Repo\nSummary: Built to optimize media spend for a subscription business."
+    "text": "A modular Bayesian MMM engine using…\n\nCode: GitHub Repo\nSummary: Built to optimize media spend for a subscription business."
   },
   {
     "objectID": "projects.html#basketball-analytics-app",
     "href": "projects.html#basketball-analytics-app",
     "title": "Projects",
     "section": "",
-    "text": "An interactive Dash app to explore player stats across European leagues.\n\nLive Demo: Link to App\nFeatures: Custom filters, player notes, integrated scouting DB"
+    "text": "An interactive Dash app to explore player stats across European leagues.\n\nLive Demo: Link to App\nFeatures: Custom filters, player stats, …"
   },
   {
     "objectID": "projects.html#causal-inference-experiments",
@@ -60,6 +60,6 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "👋 Hello, I’m Jon Oses\nI’m a data scientist / developer passionate about building clean, impactful solutions.\nThis is my personal site to share my projects, research, and CV.\n📌 Highlights: - 🧠 Interests: Data Science, Causal Inference, Sports Analytics, Bayesian Modeling - ⚙️ Tools: Python, R, Quarto, Docker, Git, PostgreSQL - 🧪 Currently working on: Project Title\n\nFeel free to explore or reach out!"
+    "text": "👋 Hello, I’m Jon Oses\nI’m a data scientist / developer passionate about building clean, impactful solutions.\nThis is my personal site to share my projects, research, and CV.\n📌 Highlights: - 🧠 Interests: Data Science, Causal Inference, Sports Analytics, Bayesian Modeling - ⚙️ Tools: Python, R, Quarto, Docker, Git, PostgreSQL - 🧪 Currently working on: Project Title\n\nFeel free to explore or reach out"
   }
 ]
