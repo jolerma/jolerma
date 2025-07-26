@@ -22,4 +22,4 @@ I’m a data professional with experience across e-commerce, marketing analytics
 
 ---
 
-📄 [Download full CV (PDF)](assets/cv.pdf)
+📄 [Download full CV (PDF)]()

@@ -16,9 +16,9 @@ website:
     left: "© 2025 Jon Oses"
     right: 
       - icon: github
-        href: https://github.com/YOUR_USERNAME
+        href: https://github.com/jolerma
       - icon: linkedin
-        href: https://www.linkedin.com/in/YOUR_USERNAME
+        href: www.linkedin.com/in/jonoseslerma
 
 format:
   html:
