@@ -1,0 +1,8 @@
+/* styles.css: subtle customizations */
+body {
+  font-size: 16px;
+  line-height: 1.6;
+}
+.navbar-brand {
+  font-weight: bold;
+}

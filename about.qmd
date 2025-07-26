@@ -1,0 +1,25 @@
+---
+title: "About Me"
+format: html
+---
+
+# 📄 CV / About Me
+
+I’m a data professional with experience across e-commerce, marketing analytics, and sports data.
+
+## 🎓 Education
+- M.Sc. in [Your Field], [University], [Year]
+- B.Sc. in [Your Field], [University], [Year]
+
+## 💼 Work Experience
+- **[Current Role]**, [Company] — *[Year–Present]*
+- **[Previous Role]**, [Company] — *[Year–Year]*
+
+## 📂 Skills
+- Programming: Python, R, SQL
+- Tools: Docker, Git, Quarto, VSCode
+- Data Science: Causal Inference, Time Series, Bayesian Models
+
+---
+
+📄 [Download full CV (PDF)](assets/cv.pdf)

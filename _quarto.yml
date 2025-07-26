@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site  # important for gh-pages deployment
+
+website:
+  title: "Jon Oses Lerma"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Projects"
+        file: projects.qmd
+      - text: "About / CV"
+        file: about.qmd
+  page-footer:
+    left: "© 2025 Jon Oses"
+    right: 
+      - icon: github
+        href: https://github.com/YOUR_USERNAME
+      - icon: linkedin
+        href: https://www.linkedin.com/in/YOUR_USERNAME
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

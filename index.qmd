@@ -1,0 +1,18 @@
+---
+title: "Welcome"
+format: html
+---
+
+# 👋 Hello, I'm Jon Oses
+
+I’m a data scientist / developer passionate about building clean, impactful solutions.  
+This is my personal site to share my **projects**, **research**, and **CV**.
+
+📌 Highlights:
+- 🧠 Interests: Data Science, Causal Inference, Sports Analytics, Bayesian Modeling
+- ⚙️ Tools: Python, R, Quarto, Docker, Git, PostgreSQL
+- 🧪 Currently working on: [Project Title](projects.qmd)
+
+---
+
+Feel free to explore or [reach out](mailto:your@email.com)!

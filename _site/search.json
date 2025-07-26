@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "👋 Hello, I’m Jon Oses\nI’m a data scientist / developer passionate about building clean, impactful solutions.\nThis is my personal site to share my projects, research, and CV.\n📌 Highlights: - 🧠 Interests: Data Science, Causal Inference, Sports Analytics, Bayesian Modeling - ⚙️ Tools: Python, R, Quarto, Docker, Git, PostgreSQL - 🧪 Currently working on: Project Title\n\nFeel free to explore or reach out!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a data professional with experience across e-commerce, marketing analytics, and sports data.\n\n\n\nM.Sc. in [Your Field], [University], [Year]\nB.Sc. in [Your Field], [University], [Year]\n\n\n\n\n\n[Current Role], [Company] — [Year–Present]\n[Previous Role], [Company] — [Year–Year]\n\n\n\n\n\nProgramming: Python, R, SQL\nTools: Docker, Git, Quarto, VSCode\nData Science: Causal Inference, Time Series, Bayesian Models\n\n\n📄 Download full CV (PDF)"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "M.Sc. in [Your Field], [University], [Year]\nB.Sc. in [Your Field], [University], [Year]"
+  },
+  {
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "About Me",
+    "section": "",
+    "text": "[Current Role], [Company] — [Year–Present]\n[Previous Role], [Company] — [Year–Year]"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "",
+    "text": "Programming: Python, R, SQL\nTools: Docker, Git, Quarto, VSCode\nData Science: Causal Inference, Time Series, Bayesian Models\n\n\n📄 Download full CV (PDF)"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A few highlights of what I’ve worked on:\n\n\nA modular Bayesian MMM engine using PyMC, supporting hierarchical priors and full flexibility.\n\nCode: GitHub Repo\nSummary: Built to optimize media spend for a subscription business.\n\n\n\n\nAn interactive Dash app to explore player stats across European leagues.\n\nLive Demo: Link to App\nFeatures: Custom filters, player notes, integrated scouting DB\n\n\n\n\nLed A/B and quasi-experimentation work using synthetic controls and Bayesian structural models.\n\nMore coming soon."
+  },
+  {
+    "objectID": "projects.html#marketing-mix-modeling-mmm-in-pymc",
+    "href": "projects.html#marketing-mix-modeling-mmm-in-pymc",
+    "title": "Projects",
+    "section": "",
+    "text": "A modular Bayesian MMM engine using PyMC, supporting hierarchical priors and full flexibility.\n\nCode: GitHub Repo\nSummary: Built to optimize media spend for a subscription business."
+  },
+  {
+    "objectID": "projects.html#basketball-analytics-app",
+    "href": "projects.html#basketball-analytics-app",
+    "title": "Projects",
+    "section": "",
+    "text": "An interactive Dash app to explore player stats across European leagues.\n\nLive Demo: Link to App\nFeatures: Custom filters, player notes, integrated scouting DB"
+  },
+  {
+    "objectID": "projects.html#causal-inference-experiments",
+    "href": "projects.html#causal-inference-experiments",
+    "title": "Projects",
+    "section": "",
+    "text": "Led A/B and quasi-experimentation work using synthetic controls and Bayesian structural models.\n\nMore coming soon."
+  }
+]

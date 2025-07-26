@@ -1,0 +1,27 @@
+---
+title: "Projects"
+format: html
+---
+
+# 🛠️ Projects
+
+A few highlights of what I’ve worked on:
+
+## 📊 Marketing Mix Modeling (MMM) in PyMC
+A modular Bayesian MMM engine using PyMC, supporting hierarchical priors and full flexibility.
+
+- Code: [GitHub Repo](https://github.com/YOUR_USERNAME/mmm-project)
+- Summary: Built to optimize media spend for a subscription business.
+
+## 🏀 Basketball Analytics App
+An interactive Dash app to explore player stats across European leagues.
+
+- Live Demo: [Link to App](#)
+- Features: Custom filters, player notes, integrated scouting DB
+
+## 🔍 Causal Inference Experiments
+Led A/B and quasi-experimentation work using synthetic controls and Bayesian structural models.
+
+---
+
+More coming soon.
