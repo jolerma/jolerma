@@ -16,3 +16,11 @@ This is my personal site to share my **projects**, **research**, and **CV**.
 ---
 
 Feel free to explore or [reach out](mailto:jolerma13@gmail.com)
+
+::: {.callout-note}
+## 🚧 Work in Progress
+
+This portfolio site is still under construction — content is being updated regularly.  
+Feel free to explore, and check back soon for more projects and features!
+:::
+
