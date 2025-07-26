@@ -1,5 +1,6 @@
 name: Deploy to GitHub Pages
 
+
 on:
   push:
     branches: [main]
@@ -21,3 +22,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
+          publish_branch: gh-pages
+          user_name: github-actions[bot]
+          user_email: github-actions[bot]@users.noreply.github.com
+
