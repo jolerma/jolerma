@@ -6,7 +6,7 @@ I'm a data scientist and developer working at the intersection of **analytics, e
 - ⚙️ Tools: Python, R, Quarto, GitHub Actions, Docker, SQL, Shiny, Dash
 <!-- - 📊 Currently building: a [Bayesian Marketing Mix Modeling library]() and a [](https://jolerma.github.io/your-dash-app) -->
 
-<!-- 📫 [Visit my website](https://jolerma.github.io/jolerma) to see my portfolio, projects, and CV   -->
+📫 [Visit my website](https://jolerma.github.io/jolerma) is a work in progress.
 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) · [GitHub](https://github.com/jolerma)
 
 <!-- Optional: GitHub stats -->
